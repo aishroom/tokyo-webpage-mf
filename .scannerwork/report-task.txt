@@ -1,0 +1,7 @@
+organization=aishroom
+projectKey=aishroom_tokyo-webpage-mf
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.47838
+dashboardUrl=https://sonarcloud.io/dashboard?id=aishroom_tokyo-webpage-mf
+ceTaskId=AYtZOoMdJQvIIn_DHDXn
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYtZOoMdJQvIIn_DHDXn
